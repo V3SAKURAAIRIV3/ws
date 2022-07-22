@@ -107,15 +107,12 @@ systemctl restart wg-quick@wg0
 
 [SakuraV3](https://t.me/sakuraairi_v3)
 
-[Rie](https://t.me/MintPulut)
-
-[Group](https://t.me/CyberGhostMalaysiaV4)
 
 ## Credit :
 
 *   SakuraV3
 
-*   Project Cyber Ghost Malaysia V4
+*   Project V3
 
 *   ALL VPN
 
