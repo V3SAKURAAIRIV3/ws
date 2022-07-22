@@ -1,4 +1,4 @@
-# Script SakuraV3 (V1-Websocket)
+# Script SakuraV3 (Duniawi)
  Welcome Dear😊
 
  <h2 align="center">AutoScript VPN By SakuraV3 <img src="https://img.shields.io/badge/Version-1.0-blue.svg"></h2>
@@ -107,7 +107,7 @@ systemctl restart wg-quick@wg0
 
 [SakuraV3](https://t.me/sakuraairi_v3)
 
-[Nizam@Rie](https://t.me/MintPulut)
+[Rie](https://t.me/MintPulut)
 
 [Group](https://t.me/CyberGhostMalaysiaV4)
 
