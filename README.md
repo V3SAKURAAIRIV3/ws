@@ -38,12 +38,6 @@ systemctl restart wg-quick@wg0
 
   ```
 
-## Info :
-
- ## Script for Sell Only. Contact owner on Telegram @SakuraV3 <a href="https://t.me/SakuraV3" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a>
-
- ## For Buy Script : Contact Telegram @SakuraV3 <a href="https://t.me/SakuraV3" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a>
-
 ## Description :
 
   Service & Port
@@ -93,17 +87,3 @@ systemctl restart wg-quick@wg0
 ## Telegram
 
 [SakuraV3](https://t.me/sakuraairi_v3)
-
-
-## Credit :
-
-*   SakuraV3
-
-*   Project V3
-
-*   ALL VPN
-
-<p align="center">
-  <a><img src="https://img.shields.io/badge/Copyright%20©-SakuraV3%20AutoScriptVPN%202022.%20All%20rights%20reserved...-blueviolet.svg" style="max-width:200%;">
-    </p>
-   </p>
