@@ -1,4 +1,4 @@
-# Script SakuraV3 (Duniawi)
+# Script SakuraV3
  Welcome Dear😊
 
  <h2 align="center">AutoScript VPN By SakuraV3 <img src="https://img.shields.io/badge/Version-1.0-blue.svg"></h2>
